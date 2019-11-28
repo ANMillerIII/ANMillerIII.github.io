@@ -1,12 +1,13 @@
 html {
     height: 100%;
+    background: rgb(226, 221, 211);
 }
 
 body {
     font-family: garamond;
     font-size: 20px;
     margin:0;
-    background: rgb(226, 221, 211);
+
 }
 
 p {
