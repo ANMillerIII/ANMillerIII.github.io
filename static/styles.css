@@ -7,7 +7,7 @@ body {
     font-family: garamond;
     font-size: 20px;
     margin:0;
-
+    background: rgb(226, 221, 211);
 }
 
 p {
@@ -60,7 +60,8 @@ iframe {
 }
 
 .main {
-    margin-left: 275px
+    margin-left: 275px;
+    background: rgb(226, 221, 211);
 }
 
 #quote {
